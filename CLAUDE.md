@@ -1,0 +1,1 @@
+To run the code please use the conda/mamba environment called fenicsx-env.
